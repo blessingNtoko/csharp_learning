@@ -1,0 +1,15 @@
+C:\Learning\C#\GetAndSet\bin\Debug\net6.0\GetAndSet.exe
+C:\Learning\C#\GetAndSet\bin\Debug\net6.0\GetAndSet.deps.json
+C:\Learning\C#\GetAndSet\bin\Debug\net6.0\GetAndSet.runtimeconfig.json
+C:\Learning\C#\GetAndSet\bin\Debug\net6.0\GetAndSet.dll
+C:\Learning\C#\GetAndSet\bin\Debug\net6.0\GetAndSet.pdb
+C:\Learning\C#\GetAndSet\obj\Debug\net6.0\GetAndSet.csproj.AssemblyReference.cache
+C:\Learning\C#\GetAndSet\obj\Debug\net6.0\GetAndSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\C#\GetAndSet\obj\Debug\net6.0\GetAndSet.AssemblyInfoInputs.cache
+C:\Learning\C#\GetAndSet\obj\Debug\net6.0\GetAndSet.AssemblyInfo.cs
+C:\Learning\C#\GetAndSet\obj\Debug\net6.0\GetAndSet.csproj.CoreCompileInputs.cache
+C:\Learning\C#\GetAndSet\obj\Debug\net6.0\GetAndSet.dll
+C:\Learning\C#\GetAndSet\obj\Debug\net6.0\refint\GetAndSet.dll
+C:\Learning\C#\GetAndSet\obj\Debug\net6.0\GetAndSet.pdb
+C:\Learning\C#\GetAndSet\obj\Debug\net6.0\GetAndSet.genruntimeconfig.cache
+C:\Learning\C#\GetAndSet\obj\Debug\net6.0\ref\GetAndSet.dll

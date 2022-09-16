@@ -18,9 +18,10 @@ namespace ClassesAndObjects
             // Console.WriteLine(book1.title);
 
             Student student1 = new Student("Bob", "Engineering", 3.4);
-            Student student2 = new Student("Sarah", "Programming", 3.0);
+            Student student2 = new Student("Sarah", "Programming", 4.3);
 
             Console.WriteLine(student1.HasHonours());
+            Console.WriteLine(student2.HasHonours());
 
         }
     }

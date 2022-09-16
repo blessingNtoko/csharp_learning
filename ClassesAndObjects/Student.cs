@@ -21,6 +21,7 @@ namespace ClassesAndObjects
 
         public bool HasHonours()
         {
+            Console.WriteLine(this);
             if (this.gpa > 3.5)
             {
                 return true;
