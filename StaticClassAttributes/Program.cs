@@ -14,7 +14,7 @@ namespace StaticClassAttributes
             Console.WriteLine(Song.songCount);
             Song streets = new("Streets (Amapiano Remix)", "Loxiie Dee", 500);
 
-            Console.WriteLine(Song.songCount);
+            Console.WriteLine(streets.GetSongCount());
         }
     }
 }

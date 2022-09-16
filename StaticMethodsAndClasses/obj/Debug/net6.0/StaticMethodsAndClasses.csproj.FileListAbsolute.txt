@@ -1,0 +1,15 @@
+C:\Learning\C#\StaticMethodsAndClasses\bin\Debug\net6.0\StaticMethodsAndClasses.exe
+C:\Learning\C#\StaticMethodsAndClasses\bin\Debug\net6.0\StaticMethodsAndClasses.deps.json
+C:\Learning\C#\StaticMethodsAndClasses\bin\Debug\net6.0\StaticMethodsAndClasses.runtimeconfig.json
+C:\Learning\C#\StaticMethodsAndClasses\bin\Debug\net6.0\StaticMethodsAndClasses.dll
+C:\Learning\C#\StaticMethodsAndClasses\bin\Debug\net6.0\StaticMethodsAndClasses.pdb
+C:\Learning\C#\StaticMethodsAndClasses\obj\Debug\net6.0\StaticMethodsAndClasses.csproj.AssemblyReference.cache
+C:\Learning\C#\StaticMethodsAndClasses\obj\Debug\net6.0\StaticMethodsAndClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\C#\StaticMethodsAndClasses\obj\Debug\net6.0\StaticMethodsAndClasses.AssemblyInfoInputs.cache
+C:\Learning\C#\StaticMethodsAndClasses\obj\Debug\net6.0\StaticMethodsAndClasses.AssemblyInfo.cs
+C:\Learning\C#\StaticMethodsAndClasses\obj\Debug\net6.0\StaticMethodsAndClasses.csproj.CoreCompileInputs.cache
+C:\Learning\C#\StaticMethodsAndClasses\obj\Debug\net6.0\StaticMethodsAndClasses.dll
+C:\Learning\C#\StaticMethodsAndClasses\obj\Debug\net6.0\refint\StaticMethodsAndClasses.dll
+C:\Learning\C#\StaticMethodsAndClasses\obj\Debug\net6.0\StaticMethodsAndClasses.pdb
+C:\Learning\C#\StaticMethodsAndClasses\obj\Debug\net6.0\StaticMethodsAndClasses.genruntimeconfig.cache
+C:\Learning\C#\StaticMethodsAndClasses\obj\Debug\net6.0\ref\StaticMethodsAndClasses.dll

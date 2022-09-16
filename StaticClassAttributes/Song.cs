@@ -13,12 +13,18 @@ namespace StaticClassAttributes
         public int duration;
         public static int songCount = 0;
 
-        public Song(string title, string artist, int duration)        {
+        public Song(string title, string artist, int duration)
+        {
             this.title = title;
             this.artist = artist;
             this.duration = duration;
             songCount++;
         } 
+
+        public int GetSongCount()
+        {
+            return songCount;
+        }
 
     }
 }
