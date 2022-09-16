@@ -1,0 +1,15 @@
+C:\Learning\C#\MadLib\bin\Debug\net6.0\MadLib.exe
+C:\Learning\C#\MadLib\bin\Debug\net6.0\MadLib.deps.json
+C:\Learning\C#\MadLib\bin\Debug\net6.0\MadLib.runtimeconfig.json
+C:\Learning\C#\MadLib\bin\Debug\net6.0\MadLib.dll
+C:\Learning\C#\MadLib\bin\Debug\net6.0\MadLib.pdb
+C:\Learning\C#\MadLib\obj\Debug\net6.0\MadLib.csproj.AssemblyReference.cache
+C:\Learning\C#\MadLib\obj\Debug\net6.0\MadLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\C#\MadLib\obj\Debug\net6.0\MadLib.AssemblyInfoInputs.cache
+C:\Learning\C#\MadLib\obj\Debug\net6.0\MadLib.AssemblyInfo.cs
+C:\Learning\C#\MadLib\obj\Debug\net6.0\MadLib.csproj.CoreCompileInputs.cache
+C:\Learning\C#\MadLib\obj\Debug\net6.0\MadLib.dll
+C:\Learning\C#\MadLib\obj\Debug\net6.0\refint\MadLib.dll
+C:\Learning\C#\MadLib\obj\Debug\net6.0\MadLib.pdb
+C:\Learning\C#\MadLib\obj\Debug\net6.0\MadLib.genruntimeconfig.cache
+C:\Learning\C#\MadLib\obj\Debug\net6.0\ref\MadLib.dll

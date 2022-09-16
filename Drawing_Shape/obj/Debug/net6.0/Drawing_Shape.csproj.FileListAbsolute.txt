@@ -1,0 +1,15 @@
+C:\Learning\C#\Drawing_Shape\bin\Debug\net6.0\Drawing_Shape.exe
+C:\Learning\C#\Drawing_Shape\bin\Debug\net6.0\Drawing_Shape.deps.json
+C:\Learning\C#\Drawing_Shape\bin\Debug\net6.0\Drawing_Shape.runtimeconfig.json
+C:\Learning\C#\Drawing_Shape\bin\Debug\net6.0\Drawing_Shape.dll
+C:\Learning\C#\Drawing_Shape\bin\Debug\net6.0\Drawing_Shape.pdb
+C:\Learning\C#\Drawing_Shape\obj\Debug\net6.0\Drawing_Shape.csproj.AssemblyReference.cache
+C:\Learning\C#\Drawing_Shape\obj\Debug\net6.0\Drawing_Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\C#\Drawing_Shape\obj\Debug\net6.0\Drawing_Shape.AssemblyInfoInputs.cache
+C:\Learning\C#\Drawing_Shape\obj\Debug\net6.0\Drawing_Shape.AssemblyInfo.cs
+C:\Learning\C#\Drawing_Shape\obj\Debug\net6.0\Drawing_Shape.csproj.CoreCompileInputs.cache
+C:\Learning\C#\Drawing_Shape\obj\Debug\net6.0\Drawing_Shape.dll
+C:\Learning\C#\Drawing_Shape\obj\Debug\net6.0\refint\Drawing_Shape.dll
+C:\Learning\C#\Drawing_Shape\obj\Debug\net6.0\Drawing_Shape.pdb
+C:\Learning\C#\Drawing_Shape\obj\Debug\net6.0\Drawing_Shape.genruntimeconfig.cache
+C:\Learning\C#\Drawing_Shape\obj\Debug\net6.0\ref\Drawing_Shape.dll

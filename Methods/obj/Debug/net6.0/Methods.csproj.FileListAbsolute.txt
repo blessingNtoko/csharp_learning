@@ -1,0 +1,15 @@
+C:\Learning\C#\Methods\bin\Debug\net6.0\Methods.exe
+C:\Learning\C#\Methods\bin\Debug\net6.0\Methods.deps.json
+C:\Learning\C#\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+C:\Learning\C#\Methods\bin\Debug\net6.0\Methods.dll
+C:\Learning\C#\Methods\bin\Debug\net6.0\Methods.pdb
+C:\Learning\C#\Methods\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+C:\Learning\C#\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\C#\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+C:\Learning\C#\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+C:\Learning\C#\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+C:\Learning\C#\Methods\obj\Debug\net6.0\Methods.dll
+C:\Learning\C#\Methods\obj\Debug\net6.0\refint\Methods.dll
+C:\Learning\C#\Methods\obj\Debug\net6.0\Methods.pdb
+C:\Learning\C#\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+C:\Learning\C#\Methods\obj\Debug\net6.0\ref\Methods.dll

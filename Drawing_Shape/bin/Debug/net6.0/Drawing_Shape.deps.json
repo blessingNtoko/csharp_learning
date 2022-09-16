@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Drawing_Shape/1.0.0": {
+        "runtime": {
+          "Drawing_Shape.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Drawing_Shape/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

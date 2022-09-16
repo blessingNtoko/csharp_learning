@@ -1,0 +1,15 @@
+C:\Learning\C#\While\bin\Debug\net6.0\While.exe
+C:\Learning\C#\While\bin\Debug\net6.0\While.deps.json
+C:\Learning\C#\While\bin\Debug\net6.0\While.runtimeconfig.json
+C:\Learning\C#\While\bin\Debug\net6.0\While.dll
+C:\Learning\C#\While\bin\Debug\net6.0\While.pdb
+C:\Learning\C#\While\obj\Debug\net6.0\While.csproj.AssemblyReference.cache
+C:\Learning\C#\While\obj\Debug\net6.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\C#\While\obj\Debug\net6.0\While.AssemblyInfoInputs.cache
+C:\Learning\C#\While\obj\Debug\net6.0\While.AssemblyInfo.cs
+C:\Learning\C#\While\obj\Debug\net6.0\While.csproj.CoreCompileInputs.cache
+C:\Learning\C#\While\obj\Debug\net6.0\While.dll
+C:\Learning\C#\While\obj\Debug\net6.0\refint\While.dll
+C:\Learning\C#\While\obj\Debug\net6.0\While.pdb
+C:\Learning\C#\While\obj\Debug\net6.0\While.genruntimeconfig.cache
+C:\Learning\C#\While\obj\Debug\net6.0\ref\While.dll

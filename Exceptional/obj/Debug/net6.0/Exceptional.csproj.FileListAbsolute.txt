@@ -1,0 +1,15 @@
+C:\Learning\C#\Exceptional\bin\Debug\net6.0\Exceptional.exe
+C:\Learning\C#\Exceptional\bin\Debug\net6.0\Exceptional.deps.json
+C:\Learning\C#\Exceptional\bin\Debug\net6.0\Exceptional.runtimeconfig.json
+C:\Learning\C#\Exceptional\bin\Debug\net6.0\Exceptional.dll
+C:\Learning\C#\Exceptional\bin\Debug\net6.0\Exceptional.pdb
+C:\Learning\C#\Exceptional\obj\Debug\net6.0\Exceptional.csproj.AssemblyReference.cache
+C:\Learning\C#\Exceptional\obj\Debug\net6.0\Exceptional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\C#\Exceptional\obj\Debug\net6.0\Exceptional.AssemblyInfoInputs.cache
+C:\Learning\C#\Exceptional\obj\Debug\net6.0\Exceptional.AssemblyInfo.cs
+C:\Learning\C#\Exceptional\obj\Debug\net6.0\Exceptional.csproj.CoreCompileInputs.cache
+C:\Learning\C#\Exceptional\obj\Debug\net6.0\Exceptional.dll
+C:\Learning\C#\Exceptional\obj\Debug\net6.0\refint\Exceptional.dll
+C:\Learning\C#\Exceptional\obj\Debug\net6.0\Exceptional.pdb
+C:\Learning\C#\Exceptional\obj\Debug\net6.0\Exceptional.genruntimeconfig.cache
+C:\Learning\C#\Exceptional\obj\Debug\net6.0\ref\Exceptional.dll
