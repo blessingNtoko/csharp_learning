@@ -1,0 +1,15 @@
+C:\Learning\C#\StaticClassAttributes\bin\Debug\net6.0\StaticClassAttributes.exe
+C:\Learning\C#\StaticClassAttributes\bin\Debug\net6.0\StaticClassAttributes.deps.json
+C:\Learning\C#\StaticClassAttributes\bin\Debug\net6.0\StaticClassAttributes.runtimeconfig.json
+C:\Learning\C#\StaticClassAttributes\bin\Debug\net6.0\StaticClassAttributes.dll
+C:\Learning\C#\StaticClassAttributes\bin\Debug\net6.0\StaticClassAttributes.pdb
+C:\Learning\C#\StaticClassAttributes\obj\Debug\net6.0\StaticClassAttributes.csproj.AssemblyReference.cache
+C:\Learning\C#\StaticClassAttributes\obj\Debug\net6.0\StaticClassAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\C#\StaticClassAttributes\obj\Debug\net6.0\StaticClassAttributes.AssemblyInfoInputs.cache
+C:\Learning\C#\StaticClassAttributes\obj\Debug\net6.0\StaticClassAttributes.AssemblyInfo.cs
+C:\Learning\C#\StaticClassAttributes\obj\Debug\net6.0\StaticClassAttributes.csproj.CoreCompileInputs.cache
+C:\Learning\C#\StaticClassAttributes\obj\Debug\net6.0\StaticClassAttributes.dll
+C:\Learning\C#\StaticClassAttributes\obj\Debug\net6.0\refint\StaticClassAttributes.dll
+C:\Learning\C#\StaticClassAttributes\obj\Debug\net6.0\StaticClassAttributes.pdb
+C:\Learning\C#\StaticClassAttributes\obj\Debug\net6.0\StaticClassAttributes.genruntimeconfig.cache
+C:\Learning\C#\StaticClassAttributes\obj\Debug\net6.0\ref\StaticClassAttributes.dll
